@@ -1,6 +1,5 @@
 import React from "react";
 import CountryWiseCase from "./Component/CountryWiseCase/CountryWiseCase";
-
 import StateWiseCase from "./Component/IndiaStateWiseCase/StateWiseCase";
 import Navbar from "./Component/Navbar/Navbar";
 
