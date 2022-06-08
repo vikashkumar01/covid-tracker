@@ -20,7 +20,7 @@ const Globle = () => {
   return (
     <div className="container1">
       
-        <h1 ><span >GLOBLE</span> COVID-19 DASHBOARD</h1>
+        <h1 ><span >GLOBLE</span> COVID CASES</h1>
       
       <div className="containerdetails">
       <div style={{backgroundColor:"red",padding:'10px',color:'white',textAlign:'center'}}>

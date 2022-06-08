@@ -20,7 +20,7 @@ const StateWiseCase = () => {
         <>
             <div className='container mb-5'>
                 <div className='main heading'>
-                        <h1 className='text-center'><span className='font-weight-bold ' style={{ color:"coral"}}>INDIA</span> COVID-19 DASHBOARD</h1>
+                        <h1 className='text-center'><span className='font-weight-bold ' style={{ color:"coral"}}>INDIA</span> COVID CASES</h1>
                 
                 </div>
 
